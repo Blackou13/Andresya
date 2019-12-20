@@ -1,0 +1,15 @@
+Locales['pl'] = {
+	['ooc_help'] = 'Entrer un message sur le caractère manquant',
+	['ooc_prefix'] = 'OOC | %s',
+	['twt_help'] = 'Envoyer un tweet',
+	['twt_prefix'] = '^0[^4Twitter^0] (^5@%s^0)',
+	['me_help'] = 'Action personnelle',
+	['me_prefix'] = 'me | %s',
+	['do_help'] = 'Information RP',
+	['do_prefix'] = 'do | %s',
+	['news_help'] = 'Annoncer des messages',
+	['news_prefix'] = 'news | %s',
+	['ooc_argument_name'] = 'Message',
+	['ooc_argument_help'] = 'Message',
+	['ooc_unknown_command'] = '^3%s^0 n est pas une commande valide!',
+}
